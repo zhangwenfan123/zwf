@@ -2,7 +2,7 @@
 layout: post
 title:  "Automatic Propositional Proof in JAVA"
 date:   2016-01-12 23:00:00
-categories: Personal
+categories: Engineering
 comments: false
 ---
 

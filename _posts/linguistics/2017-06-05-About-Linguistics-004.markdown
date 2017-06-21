@@ -2,7 +2,7 @@
 layout: post
 title:  "About Linguistics 004"
 date:   2017-06-05 23:00:00
-categories: Artificial Intelligence
+categories: Linguistics
 comments: false
 ---
 
