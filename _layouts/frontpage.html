@@ -19,7 +19,7 @@ layout: default
 	  </div>
       <div class="post-list-body">
         <div class="all-posts" post-cate="All">
-          {% for post in site.posts %}
+          {% for post in paginator.posts %}
             <a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">
               <h2>
               {{ post.title }}
@@ -27,6 +27,8 @@ layout: default
               <span class="">{{ post.date | date: "%b %-d, %Y" }}</span>
             </a>
           {% endfor %}
+
+            {% include pagination.html %}
         </div>
         <!-- <div class="posts-in-categories"> -->
         {% for category in site.categories %}
@@ -54,7 +56,7 @@ layout: default
       <div class="categories-list-header">
         Categories
       </div>
-      
+
       <a href="javascript:;" class="categories-list-item" cate="All">
         All<span class="my-badge"> {{site.posts | size}}</span>
       </a>
