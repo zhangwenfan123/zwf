@@ -8,6 +8,8 @@ comments: false
 
 Today, I am gonna tell you a story about myself---how I end up with choosing coding as my career. Everything starts with my English learning. And that is definitely a long story, but very special one.
 
+ <!--more-->
+ 
 After a few years' coding, when I try to look back the way I came, I found that My journey is so different from a student who studies engineer or computer science. I began with Language learning, and then the theory about how to learn language, and the Linguistics, the formal language theory and automata. After that everything is no going back. I decided to think and search the true nature of human intelligence. Fortunately during the whole process, I have enough time and freedom of designing my own life, and most importantly, after so many years' school education, my curiosity still remains.
 
 # Learning English is like boss fighting
