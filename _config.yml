@@ -25,6 +25,11 @@ disqus_shortname: zhangwenfan123
 disqus_url: "http://zhangwenfan123.github.io"
 #########################################
 
+paginate: 5
+comments: true
+paginate_path: "/page/:num"
+
+
 # Build settings
 markdown: kramdown
 
