@@ -239,3 +239,29 @@
         }
     }
 }
+
+.pagination {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  margin: 0 0 20px;
+  padding-left: 0;
+  position: relative;
+
+  ul {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .page-number {
+    color: #999;
+    font-size: .8em;
+  }
+  .page-number, a {
+    height: 38px;
+    line-height: 38px;
+    display: inline-block;
+    text-align: center;
+  }
