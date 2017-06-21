@@ -12,7 +12,7 @@ tags: JavaScript Array 算法 慕课网
 ## 题目
 
 题目来自 [慕课网 JavaScript 深入浅出 1-6 编程练习](http://imooc.com/code/5760)    
-
+ <!--more-->
 请在 index.html 文件中，编写 arraysSimilar 函数，实现判断传入的两个数组是否相似。具体需求：   
 
 1. 数组中的成员类型相同，顺序可以不同。例如 [1, true] 与 [false, 2] 是相似的。

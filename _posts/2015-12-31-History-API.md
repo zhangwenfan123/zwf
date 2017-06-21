@@ -12,7 +12,7 @@ tags: JavaScript Ajax URL HistoryApi pushState pjax
 ## 起因
 
 起因是这样的，在尝试前后端分离的这条道路上，我自己也在不断摸索，感觉要把大部分的坑都踩踩了。目前我用的技术是：
-
+ <!--more-->
 * webpack 自动构建
 * AMD 模块化 js
 * Sass 预处理 CSS

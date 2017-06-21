@@ -10,7 +10,7 @@ tags: JavaScript 闭包 慕课网 ife
 {:toc}
 
 本文为慕课网 [JavaScript深入浅出](http://www.imooc.com/learn/277) JavaScript 中的闭包笔记。
-
+ <!--more-->
 
 
 
