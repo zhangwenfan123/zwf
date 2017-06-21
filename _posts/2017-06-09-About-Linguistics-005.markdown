@@ -5,6 +5,8 @@ date:   2017-06-09 23:00:00
 categories: Artificial Intelligence
 comments: false
 ---
+* content
+{:toc}
 
 [语言学（linguistics）](https://en.wikipedia.org/wiki/Linguistics)是以人类语言为研究对象的学科，探索范围包括语言的性质、功能、结构、运用和历史发展，以及其他与语言有关的问题。语言学被普遍定义为对语言的一种科学化、系统化的理论研究。
  <!--more-->

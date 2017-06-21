@@ -5,6 +5,8 @@ date:   2016-10-07 23:00:00
 categories: Personal
 comments: false
 ---
+* content
+{:toc}
 
 In this blog, I gave the solution of Equilibrium Index Problem in Three Languages.
  <!--more-->

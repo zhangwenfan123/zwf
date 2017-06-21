@@ -5,6 +5,8 @@ date:   2000-01-01 12:12:12
 categories: Messages
 comments: false
 ---
+* content
+{:toc}
 
 作为一个工程师，相信你在打印出人生第一个“hello world”的时候，内心一定是充满了对未来的期待。这是一个浮躁的时代，每个人都在为这样或者那样的理由奔波。而我，正在为内心的梦想静静的装B，希望你也是一个对技术和未来充满热情的engineer。
  <!--more-->
