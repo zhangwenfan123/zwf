@@ -9,13 +9,27 @@ type: page
 * content
 {:toc}
 
-## About Me
+## Briefs of An Engineer
 
 I'm ZWF
+
+-----
+
 Research engineer and Team Leader(2017.4-Now)
+
+-----
+
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
+
+## Beliefs of The engineer
+
+Life is beautiful!
+
+----
+
+Wings up! Rock & roll!
 
 
 ## Comments
 
-{% include comments.html %}
+Yeah, actually there is nothing to comment.
