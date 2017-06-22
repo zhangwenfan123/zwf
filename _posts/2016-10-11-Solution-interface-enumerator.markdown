@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enumerator, IEnumerator and IEnumerable"
-date:   2016-10-09 23:00:00
+date:   2016-10-11 23:00:00
 categories: Algorithm
 comments: false
 ---
@@ -12,7 +12,7 @@ comments: false
  <!--more-->
 
 -----
-思考：（Part 1）
+**思考：**（Part 1）
 在任何一门号称为高级编程语言的语言当中，各种基础集合类是必不可少的一部分。在实际的编程当中，开发人员肯定会遇到各种需要操作大量数据，或者大量对象的情况。在面对不同的应用场景下，各种不同的集合类便在这里发挥出了其各自在设计的时候，所具备的各种强大特性。当然，在c#当中，也同样有很多强大的集合类用来处理大量数据的应用场景。在日常的实际使用中，虽然用起来很方便，但是却不太有机会深入到源码的底层去了解其具体的实现。这里我想借这个机会，深入了解一下，同时也是自己学习提升的一次尝试。
 
 这里主要讨论C#和JAVA两种语言的集合类及底层的实现原理，具体的实现细节可能有区别，但是原理上应当是相差不大的。学过JAVA的人，对List接口，ArrayList,LinkedList以及HashMap,HashSet之类的估计再熟悉不过了。而学习C#的同学，对早期老师说过的IEnumerator接口，GetEnumerator方法，还有各种ICollection,IList等估计也是和老朋友一般。
