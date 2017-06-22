@@ -3,6 +3,7 @@ layout: post
 title:  "Linguistics and intelligence"
 date:   2017-06-12 23:00:00
 categories: Linguistics
+tags: Linguistics
 comments: false
 ---
 * content

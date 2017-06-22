@@ -3,6 +3,7 @@ layout: post
 title:  "Linguistics and society"
 date:   2017-06-09 23:00:00
 categories: Linguistics
+tags: Linguistics
 comments: false
 ---
 * content

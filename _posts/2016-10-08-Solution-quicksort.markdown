@@ -3,6 +3,7 @@ layout: post
 title:  "Sorting algorithms"
 date:   2016-10-08 23:00:00
 categories: Algorithm
+tags: Algorithm
 comments: false
 ---
 * content

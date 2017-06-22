@@ -3,6 +3,7 @@ layout: post
 title:  "Singleton pattern"
 date:   2016-10-09 23:00:00
 categories: Algorithm
+tags: Algorithm
 comments: false
 ---
 * content

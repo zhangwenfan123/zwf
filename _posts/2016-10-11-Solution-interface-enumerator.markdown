@@ -3,6 +3,7 @@ layout: post
 title:  "Enumerator, IEnumerable and Collection"
 date:   2016-10-11 23:00:00
 categories: Algorithm
+tags: Algorithm
 comments: false
 ---
 * content

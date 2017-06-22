@@ -3,6 +3,7 @@ layout: post
 title:  "AI that has Values"
 date:   2016-10-14 23:00:00
 categories: Translation
+tags: Translation
 comments: false
 ---
 * content

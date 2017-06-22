@@ -3,6 +3,7 @@ layout: post
 title:  "About the binary tree"
 date:   2016-10-14 23:00:00
 categories: Algorithm
+tags: Algorithm
 comments: false
 ---
 * content

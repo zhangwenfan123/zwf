@@ -3,6 +3,7 @@ layout: post
 title:  "User manual of Dapper"
 date:   2016-10-14 23:00:00
 categories: Translation
+tags: Translation
 comments: false
 ---
 * content

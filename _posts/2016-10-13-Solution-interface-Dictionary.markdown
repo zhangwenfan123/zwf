@@ -3,6 +3,7 @@ layout: post
 title:  "Dictionary, IDictionary, ISet and HashSet"
 date:   2016-10-13 23:00:00
 categories: Algorithm
+tags: Algorithm
 comments: false
 ---
 * content

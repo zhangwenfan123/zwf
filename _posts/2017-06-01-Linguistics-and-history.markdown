@@ -3,6 +3,7 @@ layout: post
 title:  "Language and history"
 date:   2017-06-01 23:00:00
 categories: Linguistics
+tags: Linguistics
 comments: false
 ---
 * content

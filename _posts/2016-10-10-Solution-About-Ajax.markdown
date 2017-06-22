@@ -3,6 +3,7 @@ layout: post
 title:  "Ajax cross domain call"
 date:   2016-10-10 23:00:00
 categories: Algorithm
+tags: Algorithm
 comments: false
 ---
 * content

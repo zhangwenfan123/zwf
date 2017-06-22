@@ -3,6 +3,7 @@ layout: post
 title:  "What is linguistics? "
 date:   2017-06-05 23:00:00
 categories: Linguistics
+tags: Linguistics
 comments: false
 ---
 * content
