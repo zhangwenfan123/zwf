@@ -3,7 +3,7 @@ layout: post
 title:  "Solution of Equilibrium Index Problem in O(N)"
 date:   2016-10-07 23:00:00
 categories: Algorithm
-tags: Algorithm
+tags: Equilibrium Index O(N) 
 comments: false
 ---
 * content
