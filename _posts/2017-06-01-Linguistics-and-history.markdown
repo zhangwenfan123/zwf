@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About Linguistics 001"
+title:  "Language and history"
 date:   2017-06-01 23:00:00
 categories: Linguistics
 comments: false
