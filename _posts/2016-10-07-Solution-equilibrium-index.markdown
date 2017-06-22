@@ -8,7 +8,7 @@ comments: false
 * content
 {:toc}
 
-In this blog, I gave the solution of Equilibrium Index Problem in Three Languages.
+In this blog, I gave the solution of Equilibrium Index Problem (O(N)) in Three Languages.
  <!--more-->
 
 ```java
