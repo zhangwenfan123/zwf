@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Enumerator, IEnumerator and IEnumerable"
+title:  "Enumerator, IEnumerable and Collection"
 date:   2016-10-11 23:00:00
 categories: Algorithm
 comments: false
@@ -19,7 +19,7 @@ comments: false
 
 -----
 
-论C#集合_接口部分_Enumerator
+## 论C#集合_接口部分_Enumerator
 
 ```
 //学习开发之初面试万精油之IEnumerator和GetEnumerator方法，还有大家常用的各种List，ArrayList等集合及其泛型类
@@ -270,7 +270,7 @@ namespace System.Activities.Statements
 ```
 -----
 
-论C#集合_接口部分_Collection
+## 论C#集合_接口部分_Collection
 
 -----
 
