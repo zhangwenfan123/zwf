@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "About Linguistics 006"
+title:  "Linguistics and intelligence"
 date:   2017-06-12 23:00:00
-categories: Artificial Intelligence
+categories: Linguistics
 comments: false
 ---
 * content
 {:toc}
-
-[语言学（linguistics）](https://en.wikipedia.org/wiki/Linguistics)是以人类语言为研究对象的学科，探索范围包括语言的性质、功能、结构、运用和历史发展，以及其他与语言有关的问题。语言学被普遍定义为对语言的一种科学化、系统化的理论研究。
+知识和信息不在是如当年一样，是一种特权阶级才有的权力；人与人之间的关系，也不在是曾经的邻里亲朋，杯酒抚琴，而是化作了朋友圈完美的自拍，精准的角度和恰到好处的背景；购物也成了手机上一个简单的应用，指尖一划便是中国电子商务的王者。
  <!--more-->
 （续）
 

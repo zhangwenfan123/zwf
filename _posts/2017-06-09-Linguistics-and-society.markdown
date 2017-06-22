@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "About Linguistics 005"
+title:  "Linguistics and society"
 date:   2017-06-09 23:00:00
-categories: Artificial Intelligence
+categories: Linguistics
 comments: false
 ---
 * content
 {:toc}
-
-[语言学（linguistics）](https://en.wikipedia.org/wiki/Linguistics)是以人类语言为研究对象的学科，探索范围包括语言的性质、功能、结构、运用和历史发展，以及其他与语言有关的问题。语言学被普遍定义为对语言的一种科学化、系统化的理论研究。
+- 语言是言语活动中的社会部分，它不受个人意志的支配，是社会成员共有的，是一种社会心理现象。
+- 言语是言语活动中受个人意志支配的部分，它带有个人发音、用词、造句的特点。但是不管个人的特点如何不同，同一社团中的个人都可以互通，这是因为有语言的统一作用的缘故。
  <!--more-->
 （续）
 
