@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Computational Linguistics?"
-date:   2017-06-12 23:00:00
+date:   2017-06-25 23:00:00
 categories: Computational-Linguistics
 tags: Computational Linguistics
 comments: false
