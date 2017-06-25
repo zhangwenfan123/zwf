@@ -6,30 +6,20 @@ icon: heart
 type: page
 ---
 
-* content
-{:toc}
 
 ## Briefs of An Engineer
 
-I'm ZWF
+>Research engineer/Team Leader(2017.4-Now)
 
------
-
-Research engineer and Team Leader(2017.4-Now)
-
------
-
-Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
+>Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 
 ## Beliefs of The engineer
 
-Life is beautiful!
+>Life is beautiful!
 
-----
-
-Wings up! Rock & roll!
+>Wings up! Rock & roll!
 
 
 ## Comments
 
-Yeah, actually there is nothing to comment.
+>Yeah, actually there is nothing to comment.
