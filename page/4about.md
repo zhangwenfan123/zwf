@@ -6,6 +6,8 @@ icon: heart
 type: page
 ---
 
+* content
+{:toc}
 
 ## Briefs of An Engineer
 
