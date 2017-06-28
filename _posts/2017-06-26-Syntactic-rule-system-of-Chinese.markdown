@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Syntactic rule system of Chinese"
+title:  "Syntactic Rule System of Chinese"
 date:   2017-06-26 23:00:00
 categories: Computational-Linguistics
 tags: Computational Linguistics Chinese Syntactics
