@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Discourse Knowledge and its Application"
-date:   2017-06-26 23:00:00
+date:   2017-06-28 23:00:00
 categories: Computational-Linguistics
 tags: Computational Linguistics Discourse
 comments: false
