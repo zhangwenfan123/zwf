@@ -1,20 +1,18 @@
-
+---
 layout: page
 title: About
 permalink: /about/
 icon: heart
 type: page
+---
 
-
-* content
-{:toc}
 
 ## **Brief Introduction**
 >My journey starts from formal language theory and automata.
 
 >Currently studying natural language processing and Machine Learning.
 
-
+---
 
 ## **Engineering Experience**
 
@@ -37,6 +35,7 @@ type: page
 
 >20122016:Experienced as operation engineer and backend developer for the data center of the internal business system.
 
+---
 ## **Education and Studies**
 
 #### Peking University
