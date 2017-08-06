@@ -11,27 +11,26 @@ type: page
 
 ## Brief Introduction
 >My journey starts from formal language theory and automata.
-
->Currently studying natural language processing and Machine Learning.
+Currently studying natural language processing and Machine Learning.
 
 
 ## Engineering Experience
 
 ### Research engineer/Team Leader
 
->Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
+Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 
->2017Now : As team leader, being responsible for the development and maintenance of software product.
+>2017-Now : As team leader, being responsible for the development and maintenance of software product.
 
 ### Senior SDE
-
 Autohome.com(NYSE:ATHM)
 
->20162017 : As backend developer, responsible for the backend and service development for the Mobile Product.
+>2016-2017 : As backend developer, responsible for the backend and service development for the Mobile Product.
 
+### Engineer
 Fang.com(NYSE:SFUN) etc.
 
->20122016:Experienced as operation engineer and backend developer for the data center of the internal business system.
+>2012-2016:Experienced as operation engineer and backend developer for the data center of the internal business system.
 
 
 
