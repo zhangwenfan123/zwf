@@ -8,7 +8,7 @@
 # Site settings
 title: ZWF
 brief-intro: Research Engineer
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/zwf" # the subpath of your site, e.g. /blog
 url: "https://zhangwenfan123.github.io/zwf/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
