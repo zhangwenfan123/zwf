@@ -9,40 +9,19 @@ type: page
 * content
 {:toc}
 
-## **Brief Introduction**
->My journey starts from formal language theory and automata.
+## Briefs of An Engineer
 
->Currently studying natural language processing and Machine Learning.
-
----
-
-## **Engineering Experience**
-
-#### Research engineer/Team Leader
+>Research engineer/Team Leader(2017.4-Now)
 
 >Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 
->2017-Now : As team leader, being responsible for the development and maintenance of software product.
+## Beliefs of The engineer
 
-#### Senior SDE
+>Life is beautiful!
 
->Autohome.com(NYSE:ATHM)
+>Wings up! Rock & roll!
 
->2016-2017 : As back-end developer, responsible for the back-end and service development for the Mobile Product.
 
-#### Engineer
+## Comments
 
->Fang.com(NYSE:SFUN) etc.
-
->2012-2016:Experienced as operation engineer and back-end developer for the data center of the internal business system.
-
----
-## **Education and Studies**
-
-#### Peking University
->Master's Degree, Computational Linguistics
-
-#### Anhui Science and Technology University
->Bachelor's Degree, Linguistics
-
----
+>Yeah, actually there is nothing to comment.
