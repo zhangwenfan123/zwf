@@ -14,7 +14,7 @@ type: page
 Currently studying natural language processing and Machine Learning.
 
 ## Engineering Experience
-### Research engineer/Team Leader
+### Tech Lead/Research Engineer
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 >2017-Now : As team leader, being responsible for the development and maintenance of software product.
 
@@ -27,7 +27,7 @@ Fang.com(NYSE:SFUN) etc.
 >2012-2016:Experienced as operation engineer and backend developer for the data center of the internal business system.
 
 
-## Education and Studies
+## Education
 ### Peking University
 Master's Degree, Computational Linguistics
 
