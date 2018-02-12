@@ -13,6 +13,7 @@ type: page
 >My journey starts from formal language theory and automata.
 Currently studying natural language processing and Machine Learning.
 
+---
 ## Engineering Experience
 ### Senior Research Engineer
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
@@ -26,10 +27,10 @@ Autohome.com(NYSE:ATHM)
 Fang.com(NYSE:SFUN) etc.
 >2012-2016:Experienced as operation engineer and backend developer for the data center of the internal business system.
 
-
+---
 ## Education
 ### Peking University
-Master's Degree, Computational Linguistics
+>Master's Degree, Computational Linguistics
 
 ### Anhui Science and Technology University
-Bachelor's Degree, Linguistics
+>Bachelor's Degree, Linguistics
