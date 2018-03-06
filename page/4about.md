@@ -14,9 +14,10 @@ type: page
 Currently studying natural language processing and Machine Learning.
 
 ## Engineering Experience
-### Senior Research Engineer
+### Technical Director
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
->2017-Now : As tech lead, being responsible for the development and maintenance of software product.
+>2018-Now : As Technical Director, in charge of all projects and key service building and designing.
+>2017-2018 : As tech lead, being responsible for the development and maintenance of software product.
 
 ### Senior SDE
 Autohome.com(NYSE:ATHM)
