@@ -9,7 +9,7 @@
 title: ZWF
 brief-intro: Senior Research Engineer
 baseurl: "/zwf" # the subpath of your site, e.g. /blog
-url: "https://zhangwenfan123.github.io/zwf/" # the base hostname & protocol for your site
+url: "https://zhangwenfan123.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
