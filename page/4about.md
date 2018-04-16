@@ -11,7 +11,8 @@ type: page
 
 ## Brief Introduction
 >My journey starts from formal language theory and automata.
-Currently studying natural language processing and Machine Learning.
+
+>Currently exploring the application of Big Data&AI in education.
 
 ## Engineering Experience
 ### Technical Director
