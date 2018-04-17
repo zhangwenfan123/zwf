@@ -15,7 +15,7 @@ type: page
 >Currently exploring the application of Big Data&AI in education.
 
 ## Engineering Experience
-### Technical Director
+### Head of Engineering
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 >2018-Now : As Technical Director, in charge of all projects and key service building and designing.
 >
