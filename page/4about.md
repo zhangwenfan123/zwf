@@ -31,7 +31,7 @@ Fang.com(NYSE:SFUN) etc.
 
 ## Education
 ### Peking University
->Master's Degree, Computational Linguistics
+>Master's Degree, Computer Science
 
 ### Anhui Science and Technology University
 >Bachelor's Degree, Linguistics
