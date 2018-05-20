@@ -17,7 +17,7 @@ type: page
 ## Working Experience
 ### Head of Engineering
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
->2018-Now : As Technical Director, in charge of all projects and key service building and designing.
+>2018-Now : As Head of Engineer, in charge of all projects and key service building and designing.
 >
 >2017-2018 : As architect, being responsible for the development and maintenance of software product.
 
