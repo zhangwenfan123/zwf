@@ -11,12 +11,6 @@ tags:  word
 在线富文本编辑器是本平台最重要的组件之一。在整个平台的构建过程中，由于直接和用户的交互相关，因此编辑器的特性起着几乎是决定性的作用。
 
 
-
-
-![bloggbild_david_JS.jpg](https://ooo.0o0.ooo/2016/06/15/576125e78370d.jpg)
-
-本文主要以 [ECMAScript 6 入门 -阮一峰](http://es6.ruanyifeng.com/) 作为参考资料。
-
 ## `let` 和 `const`
 
 ### `let`
