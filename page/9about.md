@@ -12,14 +12,16 @@ type: page
 ## Brief Introduction
 >My journey starts from formal language theory and automata.
 
->Currently exploring the application of Big Data&AI in education.
+>Currently exploring the application of Big Data&AI in Knowledge decovery.
 
 ## Working Experience
-### Head of Engineering
+### Tech Lead
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
->2018-Now : As Head of Engineer, in charge of all projects and key service building and designing.
+>Feb 2018 – Present: As Tech Lead, in charge of all projects and key service building and designing.
 >
->2017-2018 : As architect, being responsible for the development and maintenance of software product.
+>Jul 2017 – Feb 2018: As Senior Research Engineer/Architect, being responsible for the development and maintenance of software product.
+>
+>Apr 2017 – Jun 2017:As Senior Research Engineer, in charge of developing certain modules in project. 
 
 ### Senior SDE
 Autohome.com(NYSE:ATHM)
