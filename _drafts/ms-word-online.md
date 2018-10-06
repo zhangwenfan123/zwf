@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ms-word在线编辑器"
+title:  "富文本在线编辑器"
 categories: JavaScript
 tags:  word
 ---
