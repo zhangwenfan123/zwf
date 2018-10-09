@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "富文本在线编辑器"
+title:  "Rich Text Editor"
 date:   2018-04-01 23:00:00
 categories: JavaScript
 tags:  word
@@ -27,3 +27,4 @@ comments: false
 
 ### 复制粘贴/内容抓取
 
+### 插件交互
