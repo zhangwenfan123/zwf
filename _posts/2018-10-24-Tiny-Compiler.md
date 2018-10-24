@@ -5,7 +5,7 @@ categories:
 - Lexical Analysis
 - Syntax Analysis
 - Computer Science
-date: 2017-09-16T00:00:00Z
+date: 2018-10-01 23:00:00
 tags:
 - Compilers
 - Lexical Analysis
