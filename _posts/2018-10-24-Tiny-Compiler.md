@@ -192,7 +192,7 @@ mul 3 sub 2 sum 1 3 4
 The parser will produce the following AST, based on the grammar above:
 
 <div style="width: 300px; height: 300px; display: block; margin: auto;">
-  <img src="https://blog.mgechev.com/images/simple-compiler/ast.svgg">
+  <img src="https://blog.mgechev.com/images/simple-compiler/ast.svg">
 </div>
 
 Lets explore the algorithm for this!
