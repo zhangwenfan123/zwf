@@ -23,7 +23,6 @@ comments: true
 * 从WPS/MS-Office到office online/google docs/office365
 * 从DESKTOP EDITORS到OnlyOffice Online Office Suite
 * OnlyOffice VS Google Docs/Office 365/Office Online
-* Key Componets Of Onlyoffice Online Suite
 
 -----
 
@@ -40,6 +39,44 @@ comments: true
 
 偶然的一个机会，发现一个开源的项目onlyoffice，在详细的了解一段时间，并且使用其桌面端应用工具之后，我十分激动。DESKTOP EDITORS这个应用程序几乎就可以说是当年盘古组件想实现的最终的样子。所有的应用都集中在一个终端，方便的在各种类型的文档之间转换。而且在文档的排版和相关的文档办公操作上，虽然说距离ms-office还有差距，但是从我个人的体验来，轻度，甚至是中度的文档办公操作完全可以胜任了。甚至有一些比较有特色的小功能，让我眼前一亮，简直就是意外之喜。
 
-随着更加深入的使用，我成为了onlyoffice online组件的个人用户，而文档的在线处理工具套件，也是这家公司完全开源的一个工具集。这一点让我十分惊讶，因为文档操作几乎是相关应用最重要的组件部分。微软office365,谷歌docs都没有开源相关的组件，要知道谷歌这样号称开源领头羊的装逼公司，都在外面找不到一个正式的开源组件，别说正式项目了，连非正式的都没有。
+随着更加深入的使用，我成为了onlyoffice online组件的个人用户，而文档的在线处理工具套件，也是这家公司完全开源的一个工具集。这一点让我十分惊讶，因为文档操作几乎是相关应用最重要的组件部分。微软office365,谷歌docs都没有开源相关的组件，要知道谷歌这样号称开源领头羊的装逼公司，都在外面找不到一个正式的开源组件。其实别说正式项目了，连非正式的都没有。
+
+OnlyOffice Online Office Suite是这家公司推出的一个在线文档的工具集，100%兼容微软的文档格式。基于其文档组件，这家公司衍生出了Projects Manager，Calendar，CRM，Email Server，Community Server，IM等一系列的项目。并且提供基于其各种协作软件平台的云服务，并且可以支持接入多种云平台。
+
+单纯从产品形态上来说，比我们项目的产品更为丰富，生产力工具简直把所有企业内部刚需的部分都做了。而且其中文档的协作，几乎覆盖了某创新平台的整个产品系列。而且就目前而言，由于原先的技术积累有着大量的知识产权，所以肯定不会放弃。但是我觉得，在开源的世界中，如果都这样做的话，那开源几乎就没什么意义了。在平台应用落地的时候，用户的需求成为最强大的推动的时候，却并没有以提升用户体验的最优方案去做。
+
+
+### OnlyOffice VS Google Docs/Office Online
+onlyoffice其官方对于自身产品的能力，几乎是有着俄罗斯名族疯魔般的自信。但是，既然敢在其官网放出自家产品和其他同类巨头的对比，足见其产品本身的扎实。
+这里我将其官网和几个主流云平台的对比做一个摘要：
+1.*OnlyOffice VS MS Office Online* 
+
+```
+a. Feature-rich
+
+ONLYOFFICE offers a complete set of formatting and collaborative tools available online.
+
+b. Self-hosted
+ONLYOFFICE can be deployed on your own server providing you with a full control over your data.
+
+c. Open Source
+The source code of ONLYOFFICE is listed on GitHub that ensures its transparency and reliability.
+
+```
+
+2.*OnlyOffice VS Google Docs* 
+
+```
+a. Compatible
+ONLYOFFICE guarantees 100% compatibility with Microsoft Office files and offers the support for DOC, DOCX, ODT, RTF, TXT, PDF, HTML, EPUB, XPS, DjVu, XLS, XLSX, ODS, CSV, PPT, PPTX, ODP.
+
+b. Feature-rich
+ONLYOFFICE offers a complete set of formatting tools and collaborative features to work on complex documents online.
+
+c. Self-hosted
+With the source code listed on GitHub, ONLYOFFICE can be deployed on your own server providing you with a full control over your data.
+
+```
+上面的其总结的优势可以看出来很明显，首先就是对于微软文档原生格式的100%支持，其次就是在协同方面堪比google docs，还有就是最重要的就是项目可以被用户自己部署和配置，完全基于自己的服务和网络。在云服务发展速度如此迅速的情况之下，能够对代码开源到这个程度，可见其云服务的利润有多么巨大。
 
 
