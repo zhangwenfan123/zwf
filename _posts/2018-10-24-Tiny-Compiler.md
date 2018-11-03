@@ -11,7 +11,7 @@ tags:
 - Lexical Analysis
 - Syntax Analysis
 - Computer Science
-title: Implementing a Simple Compiler on 25 Lines of JavaScript
+title: Tiny JavaScript Compiler
 ---
 
 * content
