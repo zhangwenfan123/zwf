@@ -57,7 +57,7 @@ layout: default
           {% endif %}
           <span class="page_number ">{{ paginator.page }}/{{ paginator.total_pages }}</span>
           {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path }}" class="next"><i class="fa fa-angle-right"></i></a>
+            <a href="{{ site.baseurl }}/{{ paginator.next_page_path }}" class="next"><i class="fa fa-angle-right"></i></a>
             <a href="{{ site.baseurl }}/page{{ paginator.total_pages }}" class="next"><i class="fa fa-angle-double-right"></i></a>
           {% else %}
             <span class="next disable"><i class="fa fa-angle-right"></i></span>
@@ -145,4 +145,4 @@ layout: default
     </div>
 </div>
 <!-- <script src="{{ "/js/scroll.min.js " | prepend: site.baseurl }}" charset="utf-8"></script> -->
-<script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8"></script>
+<script src="{{'/js/pageContent.js' | prepend: site.baseurl }}" charset="utf-8"></script>
