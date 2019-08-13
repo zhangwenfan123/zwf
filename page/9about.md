@@ -17,7 +17,7 @@ type: page
 ## Working Experience
 ### Tech Lead
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
->Jun 2019 - Now
+>Jun 2019 - Now:
 >As Project Manager, in charge of all projects and arrange development tasks;
 >
 >Feb 2018 – Jun 2019: 
