@@ -17,7 +17,10 @@ type: page
 ## Working Experience
 ### Tech Lead
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
->Feb 2018 – Present: 
+>Jun 2019 - Now
+>As Project Manager, in charge of all projects and arrange development tasks;
+>
+>Feb 2018 – Jun 2019: 
 >As Tech Lead, in charge of all projects and key service building and designing.
 >
 >Jul 2017 – Feb 2018: 
@@ -36,7 +39,7 @@ Fang.com(NYSE:SFUN) etc.
 
 ## Education
 ### Peking University
->Master's Degree, Computer Science
+>Weekends Trainning Course, Computer Science
 
 ### Anhui Science and Technology University
 >Bachelor's Degree, Linguistics
