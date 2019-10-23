@@ -15,7 +15,7 @@ type: page
 >Currently exploring the essence of language and technology. 
 
 ## Working Experience
-### Tech Lead
+### Project Manager/Member of Technical staff
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 >Jun 2019 - Now
 >As Project Manager, in charge of all projects and arrange development tasks;
