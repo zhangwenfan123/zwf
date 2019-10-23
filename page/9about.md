@@ -12,7 +12,7 @@ type: page
 ## Brief Introduction
 >My journey starts from formal language theory and automata.
 
->Currently exploring the application of Big Data&AI in Knowledge discovery.
+>Currently exploring the essence of language and technology. 
 
 ## Working Experience
 ### Tech Lead
