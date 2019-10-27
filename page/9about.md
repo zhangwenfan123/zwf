@@ -44,9 +44,5 @@ Fang.com(NYSE:SFUN) etc.
 ### Anhui Science and Technology University
 >Bachelor's Degree, Linguistics
 
->最后这一段是一个latex的语法测试
 
-$$	
-x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} 
-$$
 
