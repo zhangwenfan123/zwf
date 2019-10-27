@@ -12,10 +12,10 @@ type: page
 ## Brief Introduction
 >My journey starts from formal language theory and automata.
 
->Currently exploring the application of Big Data&AI in Knowledge discovery.
+>Currently exploring the essence of language and technology. 
 
 ## Working Experience
-### Tech Lead
+### Project Manager/Member of Technical staff
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 >Jun 2019 - Now:
 >As Project Manager, in charge of all projects and arrange development tasks;
@@ -43,3 +43,10 @@ Fang.com(NYSE:SFUN) etc.
 
 ### Anhui Science and Technology University
 >Bachelor's Degree, Linguistics
+
+>最后这一段是一个latex的语法测试
+
+$$	
+x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} 
+$$
+
