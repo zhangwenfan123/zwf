@@ -21,7 +21,7 @@ Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 >As Project Manager, in charge of all projects and arrange development tasks;
 >
 >Feb 2018 – Jun 2019: 
->As Tech Lead, in charge of all projects and key service building and designing.
+>As Technical Manager, in charge of all projects and key service building and designing.
 >
 >Jul 2017 – Feb 2018: 
 >As Senior Research Engineer/Architect, being responsible for the development and maintenance of software product.
