@@ -17,7 +17,10 @@ type: page
 ## Working Experience
 ### Project Manager/Member of Technical staff
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
->Jun 2019 - Now:
+>Apr 2020 - Now:
+>As GM of D&R Dept, in charge of all technical staffs.
+>
+>Jun 2019 - Mar 2020:
 >As Project Manager, in charge of all projects and arrange development tasks;
 >
 >Feb 2018 – Jun 2019: 
