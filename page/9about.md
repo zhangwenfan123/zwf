@@ -15,7 +15,7 @@ type: page
 >Currently exploring the essence of language and technology. 
 
 ## Working Experience
-### Project Manager/Member of Technical staff
+### GM of D&R/Member of Technical staff
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 >Apr 2020 - Now:
 >As GM of D&R Dept, in charge of all technical staffs.
