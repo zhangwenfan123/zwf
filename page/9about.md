@@ -17,6 +17,7 @@ type: page
 >Believe in predicting future by shaping it, technologically and economically. 
 
 ## Working Experience
+
 ### Head of D&R
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 >Apr 2020 - Now:
