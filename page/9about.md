@@ -18,10 +18,10 @@ type: page
 
 ## Working Experience
 
-### Head of D&R
+### Head of R & D
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 >Apr 2020 - Now:
->As Head of D&R Dept, in charge of all technical staffs.
+>As Head of R&D Dept, in charge of all technical staffs.
 >
 >Jun 2019 - Mar 2020:
 >As Project Manager, in charge of all projects and arrange development tasks;
