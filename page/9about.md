@@ -21,7 +21,7 @@ type: page
 ### Head of R & D
 Tsinghua Tongfang Knowledge Network Technology Co., Ltd. (Beijing)
 >Apr 2020 - Now:
->As Head of R&D Dept, in charge of all technical staffs.
+>As Head of R&D Dept, in charge of R&D of certain products.
 >
 >Jun 2019 - Mar 2020:
 >As Project Manager, in charge of all projects and arrange development tasks;
@@ -45,10 +45,10 @@ Fang.com(NYSE:SFUN) etc.
 
 ## Education
 ### University of Chinese Academy of Science
->Master Courses, Artificial Intelligence
+>Master's Degree, BA
 
 ### Peking University
->Master Courses, Computer Science
+>Master's Degree, CS
 
 ### Anhui Science and Technology University
 >Bachelor's Degree, Linguistics
